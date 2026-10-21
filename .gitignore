@@ -1,0 +1,17 @@
+# Generated and temporary artifacts
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
